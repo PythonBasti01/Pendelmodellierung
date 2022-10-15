@@ -154,6 +154,6 @@ class WaermeübertragerCO2:
         
         return calcGleichstrom() if self.gleichstrom == True else calcGegenstrom()
 
-
+#Hallo
 
 print(val)
